@@ -1,1 +1,169 @@
-log.
+[Mar  5 10:19:00] Info: <customlog.py> json 构建开始。
+[Mar  5 10:19:00] Info: <customlog.py> 已加载"database.xlsx"。
+[Mar  5 10:19:00] Info: <customlog.py> 开始构建卡牌(gamecards)。
+[Mar  5 10:19:00] Info: <customlog.py> 构建卡牌(gamecards)已结束。
+[Mar  5 10:19:00] Info: <customlog.py> "gamecards.json"已成功保存。
+[Mar  5 10:19:00] Info: <customlog.py> 开始构建牌堆(gamecard_decks)。
+[Mar  5 10:19:00] Info: <customlog.py> 构建牌堆(gamecard_decks)已结束。
+[Mar  5 10:19:00] Info: <customlog.py> "gamecard_decks.json"已成功保存。
+[Mar  5 10:19:00] Info: <customlog.py> 开始构建技能(skills)。
+[Mar  5 10:19:00] Info: <customlog.py> 构建技能(skills)已结束。
+[Mar  5 10:19:00] Info: <customlog.py> "skills.json"已成功保存。
+[Mar  5 10:19:00] Info: <customlog.py> 开始构建角色信息(characters)。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 albedo 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 aloy 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 alhaitham 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 amber 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 yae_miko 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 barbara 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 bennett 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 beidou 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 tartaglia 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 diona 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 diluc 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 dori 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 faruzan 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 fischl 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 kaedehara_kazuha 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 ganyu 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 hu_tao 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 arataki_itto 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 kujou_sara 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 kuki_shinobu 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 kaeya 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 candace 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 collei 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 klee 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 keqing 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 layla 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 raiden_shogun 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 razor 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 lisa 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 wanderer 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 shikanoin_heizou 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 rosaria 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 traveler 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 traveler_dendro 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 traveler_anemo 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 traveler_electro 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 traveler_geo 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 mona 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 nahida 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 nilou 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 ningguang 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 noelle 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 paimon 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 qiqi 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 jean 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 cyno 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 sucrose 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 sangonomiya_kokomi 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 shenhe 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 kamisato_ayaka 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 kamisato_ayato 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 tighnari 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 thoma 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 venti 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 gorou 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 xiangling 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 yoimiya 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 xiao 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 xinyan 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 xingqiu 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 yanfei 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 yaoyao 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 yelan 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 eula 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 yun_jin 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 sayu 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 zhongli 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 chongyun 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 mika 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 dehya 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 已成功构建角色 dainsleif 的全部信息。
+[Mar  5 10:19:00] Info: <customlog.py> 构建角色信息(characters)已结束。
+[Mar  5 10:19:00] Info: <customlog.py> "characters.json"已成功保存。
+[Mar  5 10:19:00] Info: <customlog.py> json 构建结束。
+
+[Mar  5 10:19:02] Info: <customlog.py> 角色图像构建开始。
+[Mar  5 10:19:02] Info: <customlog.py> 进行初始化预加载。
+[Mar  5 10:19:02] Info: <customlog.py> 未检测到 out/character_img 文件夹，已创建。
+[Mar  5 10:19:02] Info: <customlog.py> 字体预加载完成。
+[Mar  5 10:19:02] Info: <customlog.py> 元素颜色预加载完成。
+[Mar  5 10:19:02] Info: <customlog.py> 中文标点习惯修复函数预加载完成。
+[Mar  5 10:19:02] Info: <customlog.py> ImageDraw 简化函数 imgdraw() 预加载完成。
+[Mar  5 10:19:02] Info: <customlog.py> "characters.json"读取完成。
+[Mar  5 10:19:02] Info: <customlog.py> 预加载内容全部完成。
+[Mar  5 10:19:04] Info: <customlog.py> 阿贝多 ( albedo )已成功完成生成，并保存为 "albedo.png" 。
+[Mar  5 10:19:04] Info: <customlog.py> aloy 未设计完成，已跳过生成。
+[Mar  5 10:19:06] Info: <customlog.py> 艾尔海森 ( alhaitham )已成功完成生成，并保存为 "alhaitham.png" 。
+[Mar  5 10:19:08] Info: <customlog.py> 安柏 ( amber )已成功完成生成，并保存为 "amber.png" 。
+[Mar  5 10:19:10] Info: <customlog.py> 八重神子 ( yae_miko )已成功完成生成，并保存为 "yae_miko.png" 。
+[Mar  5 10:19:11] Info: <customlog.py> 芭芭拉 ( barbara )已成功完成生成，并保存为 "barbara.png" 。
+[Mar  5 10:19:13] Info: <customlog.py> 班尼特 ( bennett )已成功完成生成，并保存为 "bennett.png" 。
+[Mar  5 10:19:15] Info: <customlog.py> 北斗 ( beidou )已成功完成生成，并保存为 "beidou.png" 。
+[Mar  5 10:19:17] Info: <customlog.py> 达达利亚 ( tartaglia )已成功完成生成，并保存为 "tartaglia.png" 。
+[Mar  5 10:19:18] Info: <customlog.py> 迪奥娜 ( diona )已成功完成生成，并保存为 "diona.png" 。
+[Mar  5 10:19:20] Info: <customlog.py> 迪卢克 ( diluc )已成功完成生成，并保存为 "diluc.png" 。
+[Mar  5 10:19:21] Info: <customlog.py> 多莉 ( dori )已成功完成生成，并保存为 "dori.png" 。
+[Mar  5 10:19:23] Info: <customlog.py> 珐露珊 ( faruzan )已成功完成生成，并保存为 "faruzan.png" 。
+[Mar  5 10:19:25] Info: <customlog.py> 菲谢尔 ( fischl )已成功完成生成，并保存为 "fischl.png" 。
+[Mar  5 10:19:27] Info: <customlog.py> 枫原万叶 ( kaedehara_kazuha )已成功完成生成，并保存为 "kaedehara_kazuha.png" 。
+[Mar  5 10:19:28] Info: <customlog.py> 甘雨 ( ganyu )已成功完成生成，并保存为 "ganyu.png" 。
+[Mar  5 10:19:30] Info: <customlog.py> 胡桃 ( hu_tao )已成功完成生成，并保存为 "hu_tao.png" 。
+[Mar  5 10:19:32] Info: <customlog.py> 荒泷一斗 ( arataki_itto )已成功完成生成，并保存为 "arataki_itto.png" 。
+[Mar  5 10:19:34] Info: <customlog.py> 九条裟罗 ( kujou_sara )已成功完成生成，并保存为 "kujou_sara.png" 。
+[Mar  5 10:19:36] Info: <customlog.py> 久岐忍 ( kuki_shinobu )已成功完成生成，并保存为 "kuki_shinobu.png" 。
+[Mar  5 10:19:37] Info: <customlog.py> 凯亚 ( kaeya )已成功完成生成，并保存为 "kaeya.png" 。
+[Mar  5 10:19:39] Info: <customlog.py> 坎蒂丝 ( candace )已成功完成生成，并保存为 "candace.png" 。
+[Mar  5 10:19:41] Info: <customlog.py> 柯莱 ( collei )已成功完成生成，并保存为 "collei.png" 。
+[Mar  5 10:19:43] Info: <customlog.py> 可莉 ( klee )已成功完成生成，并保存为 "klee.png" 。
+[Mar  5 10:19:44] Info: <customlog.py> 刻晴 ( keqing )已成功完成生成，并保存为 "keqing.png" 。
+[Mar  5 10:19:46] Info: <customlog.py> 莱依拉 ( layla )已成功完成生成，并保存为 "layla.png" 。
+[Mar  5 10:19:49] Info: <customlog.py> 雷电将军 ( raiden_shogun )已成功完成生成，并保存为 "raiden_shogun.png" 。
+[Mar  5 10:19:50] Info: <customlog.py> 雷泽 ( razor )已成功完成生成，并保存为 "razor.png" 。
+[Mar  5 10:19:52] Info: <customlog.py> 丽莎 ( lisa )已成功完成生成，并保存为 "lisa.png" 。
+[Mar  5 10:19:54] Info: <customlog.py> 流浪者 ( wanderer )已成功完成生成，并保存为 "wanderer.png" 。
+[Mar  5 10:19:56] Info: <customlog.py> 鹿野院平藏 ( shikanoin_heizou )已成功完成生成，并保存为 "shikanoin_heizou.png" 。
+[Mar  5 10:19:58] Info: <customlog.py> 罗莎莉亚 ( rosaria )已成功完成生成，并保存为 "rosaria.png" 。
+[Mar  5 10:19:58] Info: <customlog.py> traveler 未设计完成，已跳过生成。
+[Mar  5 10:19:58] Info: <customlog.py> traveler_dendro 未设计完成，已跳过生成。
+[Mar  5 10:19:58] Info: <customlog.py> traveler_anemo 未设计完成，已跳过生成。
+[Mar  5 10:19:58] Info: <customlog.py> traveler_electro 未设计完成，已跳过生成。
+[Mar  5 10:19:58] Info: <customlog.py> traveler_geo 未设计完成，已跳过生成。
+[Mar  5 10:19:59] Info: <customlog.py> 莫娜 ( mona )已成功完成生成，并保存为 "mona.png" 。
+[Mar  5 10:20:01] Info: <customlog.py> 纳西妲 ( nahida )已成功完成生成，并保存为 "nahida.png" 。
+[Mar  5 10:20:03] Info: <customlog.py> 妮露 ( nilou )已成功完成生成，并保存为 "nilou.png" 。
+[Mar  5 10:20:04] Info: <customlog.py> 凝光 ( ningguang )已成功完成生成，并保存为 "ningguang.png" 。
+[Mar  5 10:20:06] Info: <customlog.py> 诺艾尔 ( noelle )已成功完成生成，并保存为 "noelle.png" 。
+[Mar  5 10:20:06] Info: <customlog.py> paimon 未设计完成，已跳过生成。
+[Mar  5 10:20:08] Info: <customlog.py> 七七 ( qiqi )已成功完成生成，并保存为 "qiqi.png" 。
+[Mar  5 10:20:09] Info: <customlog.py> 琴 ( jean )已成功完成生成，并保存为 "jean.png" 。
+[Mar  5 10:20:11] Info: <customlog.py> 赛诺 ( cyno )已成功完成生成，并保存为 "cyno.png" 。
+[Mar  5 10:20:13] Info: <customlog.py> 砂糖 ( sucrose )已成功完成生成，并保存为 "sucrose.png" 。
+[Mar  5 10:20:14] Info: <customlog.py> 珊瑚宫心海 ( sangonomiya_kokomi )已成功完成生成，并保存为 "sangonomiya_kokomi.png" 。
+[Mar  5 10:20:16] Info: <customlog.py> 申鹤 ( shenhe )已成功完成生成，并保存为 "shenhe.png" 。
+[Mar  5 10:20:18] Info: <customlog.py> 神里绫华 ( kamisato_ayaka )已成功完成生成，并保存为 "kamisato_ayaka.png" 。
+[Mar  5 10:20:22] Info: <customlog.py> 神里绫人 ( kamisato_ayato )已成功完成生成，并保存为 "kamisato_ayato.png" 。
+[Mar  5 10:20:24] Info: <customlog.py> 提纳里 ( tighnari )已成功完成生成，并保存为 "tighnari.png" 。
+[Mar  5 10:20:27] Info: <customlog.py> 托马 ( thoma )已成功完成生成，并保存为 "thoma.png" 。
+[Mar  5 10:20:29] Info: <customlog.py> 温迪 ( venti )已成功完成生成，并保存为 "venti.png" 。
+[Mar  5 10:20:32] Info: <customlog.py> 五郎 ( gorou )已成功完成生成，并保存为 "gorou.png" 。
+[Mar  5 10:20:34] Info: <customlog.py> 香菱 ( xiangling )已成功完成生成，并保存为 "xiangling.png" 。
+[Mar  5 10:20:37] Info: <customlog.py> 宵宫 ( yoimiya )已成功完成生成，并保存为 "yoimiya.png" 。
+[Mar  5 10:20:39] Info: <customlog.py> 魈 ( xiao )已成功完成生成，并保存为 "xiao.png" 。
+[Mar  5 10:20:40] Info: <customlog.py> 辛焱 ( xinyan )已成功完成生成，并保存为 "xinyan.png" 。
+[Mar  5 10:20:42] Info: <customlog.py> 行秋 ( xingqiu )已成功完成生成，并保存为 "xingqiu.png" 。
+[Mar  5 10:20:44] Info: <customlog.py> 烟绯 ( yanfei )已成功完成生成，并保存为 "yanfei.png" 。
+[Mar  5 10:20:46] Info: <customlog.py> 瑶瑶 ( yaoyao )已成功完成生成，并保存为 "yaoyao.png" 。
+[Mar  5 10:20:49] Info: <customlog.py> 夜兰 ( yelan )已成功完成生成，并保存为 "yelan.png" 。
+[Mar  5 10:20:51] Info: <customlog.py> 优菈 ( eula )已成功完成生成，并保存为 "eula.png" 。
+[Mar  5 10:20:53] Info: <customlog.py> 云堇 ( yun_jin )已成功完成生成，并保存为 "yun_jin.png" 。
+[Mar  5 10:20:55] Info: <customlog.py> 早柚 ( sayu )已成功完成生成，并保存为 "sayu.png" 。
+[Mar  5 10:20:58] Info: <customlog.py> 钟离 ( zhongli )已成功完成生成，并保存为 "zhongli.png" 。
+[Mar  5 10:21:00] Info: <customlog.py> 重云 ( chongyun )已成功完成生成，并保存为 "chongyun.png" 。
+[Mar  5 10:21:00] Info: <customlog.py> mika 未设计完成，已跳过生成。
+[Mar  5 10:21:02] Info: <customlog.py> 迪希雅 ( dehya )已成功完成生成，并保存为 "dehya.png" 。
+[Mar  5 10:21:02] Info: <customlog.py> dainsleif 未设计完成，已跳过生成。
+[Mar  5 10:21:02] Info: <customlog.py> 角色图像生成已完成全部构建与保存。
+
